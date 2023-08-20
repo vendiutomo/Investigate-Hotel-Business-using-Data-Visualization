@@ -1,6 +1,10 @@
 # Investigate-Hotel-Business-using-Data-Visualization
 #2 Mini Project at Rakamin Academy
 
+It is very important for a company to always analyze its business performance.
+
+The focus of this project is to find out how our customers behave in making hotel bookings, and their relationship to the cancellation rate of hotel bookings. The results of the insights found will be presented in the form of visualization data to make it easier to understand and more persuasive.
+
 ## Data Preprocessing
 - Handling Duplicated Data.
 - Handling Missing Values.
